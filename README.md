@@ -10,3 +10,4 @@ When executed, it will perform the following steps -
 
 * We will listen to the net by running "nc -lvvp port_num" command (l for listen , vv for visual, p for port) - 
 when the target system executes this code, we will watch and get the control.
+* To compile this program into any OS and CPU, we can use build root software.
